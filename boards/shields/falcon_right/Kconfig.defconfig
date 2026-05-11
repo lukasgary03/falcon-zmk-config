@@ -1,6 +1,0 @@
-if SHIELD_FALCON_RIGHT
-
-config ZMK_KEYBOARD_NAME
-    default "Falcon Right"
-
-endif
