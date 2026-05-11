@@ -1,0 +1,2 @@
+config SHIELD_FALCON_DONGLE
+    def_bool $(shields_list_contains,falcon_dongle)

@@ -1,0 +1,15 @@
+if SHIELD_FALCON_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "Falcon Right"
+
+config ZMK_SPLIT
+    default y
+
+config ZMK_POINTING
+    default y
+
+config SPI
+    default y
+
+endif
