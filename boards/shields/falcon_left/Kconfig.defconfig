@@ -1,0 +1,6 @@
+if SHIELD_FALCON_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Falcon Left"
+
+endif

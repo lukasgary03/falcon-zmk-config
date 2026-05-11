@@ -1,0 +1,6 @@
+if SHIELD_FALCON_DONGLE
+
+config ZMK_KEYBOARD_NAME
+    default "Falcon"
+
+endif

@@ -1,0 +1,10 @@
+---
+include:
+  - board: nice_nano//zmk
+    shield: falcon_left
+
+  - board: nice_nano//zmk
+    shield: falcon_right
+
+  - board: nice_nano//zmk
+    shield: falcon_dongle
